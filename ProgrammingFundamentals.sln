@@ -7,15 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ages", "Task1\Ages.csproj",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Division.csproj", "{83581ABA-E5EA-44F0-BEBB-8942BFE1FB05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation", "Vacation\Vacation.csproj", "{4EA45AD5-3664-4BA1-B606-C9C3A404D75F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation", "Vacation\Vacation.csproj", "{4EA45AD5-3664-4BA1-B606-C9C3A404D75F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAndSum", "PrintAndSum\PrintAndSum.csproj", "{FAA783C6-CAF5-498B-AD56-BBC7508721C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintAndSum", "PrintAndSum\PrintAndSum.csproj", "{FAA783C6-CAF5-498B-AD56-BBC7508721C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{1C0215C7-1AC4-45BC-AE7B-DD0F4F8896CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "Login\Login.csproj", "{1C0215C7-1AC4-45BC-AE7B-DD0F4F8896CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{6CBF11D9-6EEA-46C0-A983-20A114E528B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{6CBF11D9-6EEA-46C0-A983-20A114E528B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{762FEE31-5011-4409-9C7F-7B9E5917506E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{762FEE31-5011-4409-9C7F-7B9E5917506E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{91AF4BD2-6C56-48C3-89AF-F9376A18A32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadawanEquipment", "PadawanEquipment\PadawanEquipment.csproj", "{01D5CB06-27AF-4CFD-9CE7-323931484C3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{762FEE31-5011-4409-9C7F-7B9E5917506E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{762FEE31-5011-4409-9C7F-7B9E5917506E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{762FEE31-5011-4409-9C7F-7B9E5917506E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AF4BD2-6C56-48C3-89AF-F9376A18A32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AF4BD2-6C56-48C3-89AF-F9376A18A32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AF4BD2-6C56-48C3-89AF-F9376A18A32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AF4BD2-6C56-48C3-89AF-F9376A18A32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D5CB06-27AF-4CFD-9CE7-323931484C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D5CB06-27AF-4CFD-9CE7-323931484C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D5CB06-27AF-4CFD-9CE7-323931484C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D5CB06-27AF-4CFD-9CE7-323931484C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
