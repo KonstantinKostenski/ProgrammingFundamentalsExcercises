@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ages", "Task1\Ages.csproj", "{9FE04972-84F2-4A4A-B530-46B24DBAE1E8}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Division", "Division\Division.csproj", "{83581ABA-E5EA-44F0-BEBB-8942BFE1FB05}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vacation", "Vacation\Vacation.csproj", "{4EA45AD5-3664-4BA1-B606-C9C3A404D75F}"
@@ -23,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadawanEquipment", "Padawan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RageExpenses", "RageExpenses\RageExpenses.csproj", "{6C62F1DE-5DF9-4736-815D-0F9FF61A803B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{2EE457F6-32A2-4BB4-92EF-CF4C57A925FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfDigits", "SumOfDigits\SumOfDigits.csproj", "{2EE457F6-32A2-4BB4-92EF-CF4C57A925FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ages", "Ages\Ages.csproj", "{5FC77827-4416-4EE7-A82A-238FDBDD1218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9FE04972-84F2-4A4A-B530-46B24DBAE1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9FE04972-84F2-4A4A-B530-46B24DBAE1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9FE04972-84F2-4A4A-B530-46B24DBAE1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9FE04972-84F2-4A4A-B530-46B24DBAE1E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{83581ABA-E5EA-44F0-BEBB-8942BFE1FB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{83581ABA-E5EA-44F0-BEBB-8942BFE1FB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83581ABA-E5EA-44F0-BEBB-8942BFE1FB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +71,10 @@ Global
 		{2EE457F6-32A2-4BB4-92EF-CF4C57A925FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EE457F6-32A2-4BB4-92EF-CF4C57A925FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EE457F6-32A2-4BB4-92EF-CF4C57A925FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC77827-4416-4EE7-A82A-238FDBDD1218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC77827-4416-4EE7-A82A-238FDBDD1218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC77827-4416-4EE7-A82A-238FDBDD1218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC77827-4416-4EE7-A82A-238FDBDD1218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
